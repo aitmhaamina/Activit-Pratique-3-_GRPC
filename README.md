@@ -1,9 +1,7 @@
-# DISTRIBUTED SYSTEMS WITH GRPC
+
 
 
 ## Part 1:
-
-**The first part contains the discount with the demo vedio that show a simple implentation of different models of GRPC.**
 
 To build a web service using gRPC, we go through several steps:
 
